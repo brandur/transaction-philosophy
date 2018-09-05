@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testcats on My New Hugo Site</title>
+    <link>http://example.org/testcat/</link>
+    <description>Recent content in Testcats on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Sep 2018 22:55:17 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/testcat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://example.org/testcat/hello/</link>
+      <pubDate>Mon, 03 Sep 2018 22:55:17 -0700</pubDate>
+      
+      <guid>http://example.org/testcat/hello/</guid>
+      <description>Fuck.</description>
+    </item>
+    
+  </channel>
+</rss>
