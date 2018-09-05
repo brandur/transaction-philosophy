@@ -2,3 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "custom"
+
+# We don't need the default taxonomies.
+[taxonomies]
+  disableKinds = ["taxonomy", "taxonomyTerm"]
