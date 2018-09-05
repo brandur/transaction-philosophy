@@ -1,9 +1,9 @@
 +++
 title = "Home"
-date = 2018-09-03T22:42:15-07:00
-page = "_default/single.html"
-#draft = true
+date = 2018-09-03T21:42:16-07:00
 +++
+
+Arg.
 
 Hello.
 
