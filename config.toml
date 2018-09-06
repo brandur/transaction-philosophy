@@ -1,7 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Transaction Philosophy"
-theme = "custom"
 
 # We don't need the default taxonomies.
 disableKinds = ["taxonomy", "taxonomyTerm"]
