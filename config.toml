@@ -4,3 +4,6 @@ title = "Transaction Philosophy"
 
 # We don't need the default taxonomies.
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  localFonts = true
