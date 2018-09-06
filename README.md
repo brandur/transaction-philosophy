@@ -25,3 +25,9 @@ Or generate the static site to `public/`:
 ```
 hugo
 ```
+
+Or for production:
+
+```
+hugo --config config.toml,config.prod.toml
+```
