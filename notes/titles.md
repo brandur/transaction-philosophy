@@ -10,4 +10,5 @@
 * Transaction-oriented software
 * The philosophy of transaction-driven software
 * The philosophy of resilient transaction-oriented software
+* The philosophy of resilience & transaction-oriented software
 * 
