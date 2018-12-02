@@ -3,6 +3,10 @@ title = "The philosophy of resilience & transaction-oriented software"
 date = 2018-09-03T22:42:15-07:00
 +++
 
+Alt titles:
+
+* Transaction manifesto?
+
 Software powers the world.
 
 If software has one flaw though, it's reliability. Whether
